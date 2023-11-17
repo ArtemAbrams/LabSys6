@@ -1,0 +1,4 @@
+# ninja log v5
+0	123	1700249521370701881	build.ninja	88bf3181e85ee56c
+0	5324	1700249526226741104	CMakeFiles/untitled1.dir/main.cpp.o	b32acceedb65d122
+1	5534	1700249526942746838	CMakeFiles/untitled1.dir/optimized.cpp.o	3e19a30348476e2d

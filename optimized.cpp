@@ -2,13 +2,10 @@
 using namespace std;
 int sumOfDivisors(int n){
     int sum = 0;
-    int sum_2 = 0;
     for(int i = 1; i<=n; i++){
-        sum_2=sum;
         if(n%i==0){
-            sum_2 = sum_2 + i;
+            sum = sum + i;
         }
-        sum = sum_2;
     }
     return sum;
 }
